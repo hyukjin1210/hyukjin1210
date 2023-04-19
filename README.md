@@ -27,9 +27,9 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
   
 ##  👀 Projects 👀
 
-### 항해 99 6주차 미니 프로젝트 : 🔔 [항리갈리](리잉크)
-### 항해 99 7주차 클론코딩 프로젝트 : ✈️ [HamGaJa](리잉크)
-### 항해 99 실전 프로젝트 : 💯 [Flexidesk](리잉크)
+### 항해 99 6주차 미니 프로젝트 : 🔔 [항리갈리](https://github.com/Hangligarli/Hangligarli)
+### 항해 99 7주차 클론코딩 프로젝트 : ✈️ [HamGaJa](https://github.com/HamGaja/Backend)
+### 항해 99 실전 프로젝트 : 💯 [Flexidesk](https://github.com/Teamthirteenseven/chillisauce-BE)
 </div>
 
 <div align="center">
@@ -50,23 +50,7 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
 
 <div align="center">
   
-  
-  
-
-  
-  
-  
-  
-  
- <br>
-  DB
-
-<br>
-Tool
-
  
-
-
 
 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-round&logo=Ubuntu&logoColor=white"/>
@@ -74,26 +58,6 @@ Tool
   
   ## 🚀  GitHub stats & Top Langs
 
-
-
-
- 
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-round&logo=Sourcetree&logoColor=white"/>
-
- 
-   
-  
-
-
-<br>
-
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" />
-	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<br>
-  
-   
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 
 </div>
 
