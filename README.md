@@ -18,11 +18,6 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
   
 </div>
 
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
-</div>
-
 <div align="center">
   
 ##  👀 Projects 👀
@@ -34,7 +29,7 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
 
 <div align="center">
 
-## 🎮 Stacks 🎮
+## 📚 Tech Stacks 📚
 <br>
 
 |123|Studying✏️|
