@@ -47,8 +47,6 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
   
  
 
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-round&logo=Ubuntu&logoColor=white"/>
   
   
   ## 🚀  GitHub stats & Top Langs
