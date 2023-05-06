@@ -14,7 +14,7 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
   
 ## 💻 study 💻
 
-### 🔥스파르타 코딩클럽 부트캠프 항해 99 13기 2023-02-06 ~ 2023-05-
+### 🔥스파르타 코딩클럽 부트캠프 항해 99 13기 2023-02-06 ~ 2023-05-12
   
 </div>
 
@@ -54,18 +54,3 @@ BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
 
 </div>
 
-
-<!--
-**hyukjin1210/hyukjin1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
