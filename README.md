@@ -6,7 +6,7 @@
 <br>
 CONTACT : ✉️ gurwlstm1210@gmail.com ✉️
 <br>
-BLOG : ✏️ [개발 블로오그](https://chaos2061.tistory.com) ✏️
+BLOG : ✏️ [개발 블로그](https://chaos2061.tistory.com) ✏️
 <br>
 
 
