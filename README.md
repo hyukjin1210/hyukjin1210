@@ -9,6 +9,12 @@ CONTACT : ✉️ gurwlstm1210@gmail.com ✉️
 BLOG : ✏️ [개발 블로그](https://chaos2061.tistory.com) ✏️
 <br>
 
+<div align="center">
+
+  ## 🚀  GitHub stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyukjin1210&show_icons=true&theme=tokyonight)
+
+</div>
 
 <div align=center>
   
@@ -42,15 +48,4 @@ BLOG : ✏️ [개발 블로그](https://chaos2061.tistory.com) ✏️
 
   
 </div>  
-
-<div align="center">
-  
- 
-
-  
-  
-  ## 🚀  GitHub stats & Top Langs
-
-
-</div>
 
