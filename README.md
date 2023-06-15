@@ -46,6 +46,5 @@ BLOG : ✏️ [개발 블로그](https://chaos2061.tistory.com) ✏️
 |AWS|<img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-round&logo=AmazonEC2&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-round&logo=AmazonRDS&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-round&logo=AmazonS3&logoColor=white"/>|
 |Tool|<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-F06A6A?style=flat-round&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-round&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-round&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-round&logo=filezilla&logoColor=white"/>|
 
-  
 </div>  
 
