@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyukjin%20Github!&fontSize=90" />	
 </div>
 
-👋 안녕하세요! 백엔드 개발자 지망생 장혁진 입니다.
+👋 안녕하세요! 주니어 백엔드 개발자 장혁진 입니다.
 <br>
 CONTACT : ✉️ gurwlstm1210@gmail.com ✉️
 <br>
